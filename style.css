@@ -307,3 +307,11 @@ header{
     align-items: center;
     visibility: hidden; 
 }
+
+.buy-button {
+    display: none !important;
+}
+
+.modal-cross {
+    display: none !important;
+}
